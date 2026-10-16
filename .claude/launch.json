@@ -1,0 +1,6 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    { "name": "nomad", "runtimeExecutable": "npm", "runtimeArgs": ["--prefix", "nomad-react", "run", "dev"], "port": 5173 }
+  ]
+}
